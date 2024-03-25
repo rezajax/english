@@ -6,5 +6,5 @@ abandoned
 The gods of Olympus have abandoned me.
 
 
--[x]concise 
--[y]consise
+-[x] concise 
+-[] consise
