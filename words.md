@@ -7,5 +7,5 @@ The gods of Olympus have abandoned me.
 
 ---
 
-- [x] concise 
-- [] consise
+- [x] concise
+- [ ] consise
